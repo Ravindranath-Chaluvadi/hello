@@ -1,1 +1,2 @@
-its a sampleone for learnign
+its a sample one for learning
+
